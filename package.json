@@ -1,0 +1,18 @@
+{
+  "name": "poi-plugin-bot",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "A plugin for poi test",
+  "author": {
+    "name": "Wiio12",
+    "url": "ss"
+  },
+  "poiPlugin": {
+    "title": "Bot",
+    "description": "Automate bot!",
+    "icon": "fa/beer",
+    "apiVer": {
+      "6.3.3": "2.1.1"
+    }
+  }
+}
